@@ -6,14 +6,14 @@
 <br><br>
 <img src="JavaFX - O.O/hostel.jpg" alt="Hostel Image" width="600">
 
->This project involves using supervised AI models such as KNN, Logistic Regression and Random Forest to solve problems such as breast cancer detection and credit
+>This project involves using supervised AI models such as KNN, Logistic Regression, Random Forest and Decision Tree to solve problems such as breast cancer detection and credit
 >approval. Furthermore, it includes a project for a classifier whose proposal consists of exclusively using an electronic spreadsheet to develop a model capable of
 >classifying the data provided.
 
 ## 🛠️ Dependencies
 
 - Python
-- Jupyter Notebook
+- Jupyter Notebook (google colab)
 
 ## 🚀 Getting Started
 
@@ -23,11 +23,12 @@ To test the application, follow these steps:
 
 2. **Extract the file**;
 
-3. **Open it in Jupyter Notebook**;
+3. **Open it in google colab**;
 
 4. **See the project**.
 
 ## 🖥️ How It Works
 
-Using several different classes and controllers, each serving a purpose, guest, room, reservation, etc. They all integrate using JavaFX so that the application can be run
-on Main. In addition to HTML and CSS files that give structure and styling to the application, as well as data persistence using SQLite.
+The project is divided into two parts. In the first, KNN, Random Forest and Decision Tree are used to address the problem of breast cancer detection. Initially, the data from each database is divided into training and testing sets. Then the models are trained and tested, and a comparison is made using graphs to determine which model is most effective for the problem.
+
+In the second part, the Logistic Regression, Decision Tree and Random Forest models are used for the credit approval problem. In the same way as in the first part, the data is divided into training and testing sets, the models are trained and tested, and comparisons are made to identify which model is most effective for the problem.
