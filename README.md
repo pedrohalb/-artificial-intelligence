@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/pedrohalb/artificial-intelligence?style=for-the-badge)
 
 <br><br>
-<img src="credit.jpg" alt="Credit Approval" width="440"> <img src="cancer-mama.png" alt="Câncer de mama" width="500">
+<img src="credit.jpg" alt="Credit Approval" width="240"> <img src="cancer-mama.png" alt="Câncer de mama" width="300">
 
 >This project involves using supervised AI models such as KNN, Logistic Regression, Random Forest and Decision Tree to solve problems such as breast cancer detection and credit
 >approval. Furthermore, it includes a project for a classifier whose proposal consists of exclusively using an electronic spreadsheet to develop a model capable of
